@@ -1,5 +1,12 @@
-let score = 50;
-console.log(score);
+//variable + angka
+let originNumber = 23;
+let newNumber = originNumber + 7;
 
-const pi = 3.14;
-console.log(pi);
+console.log(newNumber);
+
+//variable + variable
+let data = 30;
+let datas = 60;
+let newData = data + datas;
+
+console.log(newData);
